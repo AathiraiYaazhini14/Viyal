@@ -1,0 +1,17 @@
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.layout-body {
+  margin-left: 248px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  background: #f5f6fa;
+  min-height: calc(100vh - 64px);
+  overflow-x: hidden;
+}
