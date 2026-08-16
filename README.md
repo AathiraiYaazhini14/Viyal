@@ -11,31 +11,27 @@
 [![Express](https://img.shields.io/badge/Framework-Express%20v5-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Recharts](https://img.shields.io/badge/Analytics-Recharts-22b5bf?style=flat-square&logo=chartdotjs&logoColor=white)](https://recharts.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 ---
 
-</div>
+### 🎥 [Watch Demo Video](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing) &nbsp;|&nbsp; 📄 [Read Project Report (PDF)](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing)
 
-## 📽️ System Video & Demonstration
-
-> 💡 **Demo Preview**: Below is the video walkthrough demonstrating the Viyal Forest Monitoring Dashboard, threat escalation flows, geofence log monitoring, species detection feed, and environmental analytics.
-
-<div align="center">
-
-<!-- 
-  VIDEO EMBED PLACEHOLDER 
-  Replace the link below with your video URL (e.g. YouTube, Vimeo, or relative MP4/GIF file path)
--->
-
-[![Viyal Application Demo Video](https://img.shields.io/badge/▶️%20Watch-Viyal%20System%20Demo%20Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_URL_HERE)
-
-*If hosting locally, embed your demo video or GIF using HTML syntax below:*
-<!-- 
-<video src="./assets/viyal-demo.mp4" width="100%" controls poster="./assets/dashboard-preview.png"></video> 
--->
+[![Watch Viyal System Demo](https://img.shields.io/badge/▶️%20Watch-Viyal%20System%20Demo%20Video-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing)
+[![Read Project Report](https://img.shields.io/badge/📄%20Read-Full%20Project%20Report-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing)
 
 </div>
+
+---
+
+## 📽️ Project Demonstration & Documentation Links
+
+> 💡 **Demo Walkthrough**: Experience the live system demonstration showing dashboard KPIs, real-time threat incident escalation, geofence tracking, wildlife camera trap detection feeds, and AI environmental analytics.
+
+| Resource | Link | Description |
+| :--- | :--- | :--- |
+| 🎥 **Viyal System Demo Video** | [Watch Video on Google Drive 🔗](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing) | Complete video walkthrough of dashboard, live threat alerts, geofence logs, and AI insights. |
+| 📄 **Viyal Full Project Report** | [Read Report PDF on Google Drive 🔗](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing) | Comprehensive technical project documentation and engineering report. |
 
 ---
 
