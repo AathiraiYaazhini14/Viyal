@@ -15,10 +15,11 @@
 
 ---
 
-### 🎥 [Watch Demo Video](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing) &nbsp;|&nbsp; 📄 [Read Project Report (PDF)](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing)
+### 🎥 [Watch Demo Video](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing) &nbsp;|&nbsp; 📄 [Read Project Report (PDF)](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing) &nbsp;|&nbsp; 📁 [All Project Resources (Drive Folder)](https://drive.google.com/drive/folders/1_aLEKaQBrAMVTl3CvtpTcJTOf9aLEtZ6?usp=sharing)
 
 [![Watch Viyal System Demo](https://img.shields.io/badge/▶️%20Watch-Viyal%20System%20Demo%20Video-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing)
 [![Read Project Report](https://img.shields.io/badge/📄%20Read-Full%20Project%20Report-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing)
+[![All Project Resources](https://img.shields.io/badge/📁%20Drive-All%20Project%20Resources-1e8449?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1_aLEKaQBrAMVTl3CvtpTcJTOf9aLEtZ6?usp=sharing)
 
 </div>
 
@@ -26,12 +27,13 @@
 
 ## 📽️ Project Demonstration & Documentation Links
 
-> 💡 **Demo Walkthrough**: Experience the live system demonstration showing dashboard KPIs, real-time threat incident escalation, geofence tracking, wildlife camera trap detection feeds, and AI environmental analytics.
+> 💡 **Demo Walkthrough & Assets**: Experience the live system demonstration showing dashboard KPIs, real-time threat incident escalation, geofence tracking, wildlife camera trap detection feeds, and AI environmental analytics.
 
 | Resource | Link | Description |
 | :--- | :--- | :--- |
 | 🎥 **Viyal System Demo Video** | [Watch Video on Google Drive 🔗](https://drive.google.com/file/d/1N6WzhrhTLRS_KwrxfmTmDz-hpH0fLgnX/view?usp=sharing) | Complete video walkthrough of dashboard, live threat alerts, geofence logs, and AI insights. |
 | 📄 **Viyal Full Project Report** | [Read Report PDF on Google Drive 🔗](https://drive.google.com/file/d/1DoLxAqraomdJfspO1uz59IbQPqFJ2Gvt/view?usp=sharing) | Comprehensive technical project documentation and engineering report. |
+| 📁 **All Project Resources Folder** | [Browse Folder on Google Drive 🔗](https://drive.google.com/drive/folders/1_aLEKaQBrAMVTl3CvtpTcJTOf9aLEtZ6?usp=sharing) | Complete Google Drive directory containing demo video, project report, screenshots, and visual assets. |
 
 ---
 
