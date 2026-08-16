@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Viyal Banner](https://img.shields.io/badge/Viyal-AI%20Forest%20Monitor-1e8449?style=for-the-badge&logo=tree&logoColor=white)
-
 **An End-to-End Smart Forest Intelligence, Ecosystem Protection, and Threat Monitoring Platform**
 
 ![React](https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
